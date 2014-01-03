@@ -135,8 +135,8 @@ Intel(R) Core2 Quad Q8300@2.5 GHz with 3.9 GB memory with Ubuntu 10.04
 <td></td>
 </tr>
 
-
-<td>Firefly<td></td>
+<tr>
+<td>Firefly</td>
 <td>11.5</td>
 <td>23</td>
 <td>0.5</td>
@@ -160,9 +160,10 @@ Intel(R) Core2 Quad Q8300@2.5 GHz with 3.9 GB memory with Ubuntu 10.04
 <td></td>
 <td></td>
 </tr>
+<tr>
 
 
-<td>Firefly<td></td>
+<td>Firefly</td>
 <td>22.2</td>
 <td>25</td>
 <td>0.89</td>
