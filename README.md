@@ -112,12 +112,13 @@ Michael Banck's results
 </tr>
 </table>
 
-MY NAME HERE's results
+Pedro Silva's results
 ----------------------
 
-**Machine:** Description of one CPU and the OS
+**Machine:** 
+Intel(R) Core2 Quad Q8300@2.5 GHz with 3.9 GB memory with Ubuntu 10.04
 
-**Fancy compiler or maths libraries used when compiling:** Intel compiler? MKL?
+**Fancy compiler or maths libraries used when compiling:** Gamess US was built using ATLAS math library
 
 ### HF
 <table>
@@ -126,9 +127,20 @@ MY NAME HERE's results
 <th>Total E</th><th>HOMO</th><th>LUMO</th>
 </tr>
 <tr>
-<td></td><td></td>
-<td></td><td></td>
+<td>Gamess(US)
+<td>9.2</td><td>30</td>
+<td>0.31</td>
+<td> -644.6757056212</td>
 <td></td>
+<td></td>
+</tr>
+
+
+<td>Firefly<td></td>
+<td>11.5</td>
+<td>23</td>
+<td>0.5</td>
+<td> -644.6757047981</td>
 <td></td>
 <td></td>
 </tr>
@@ -141,9 +153,20 @@ MY NAME HERE's results
 <th>Total E</th><th>HOMO</th><th>LUMO</th>
 </tr>
 <tr>
-<td></td><td></td>
-<td></td><td></td>
+<td>Gamess(US)
+<td>141.7</td><td>41</td>
+<td>3.46</td>
+<td>  -648.1465175955 </td>
 <td></td>
+<td></td>
+</tr>
+
+
+<td>Firefly<td></td>
+<td>22.2</td>
+<td>25</td>
+<td>0.89</td>
+<td> -648.4956786524</td>
 <td></td>
 <td></td>
 </tr>
