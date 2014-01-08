@@ -81,7 +81,7 @@ Intel(R) Core2 Quad Q8300@2.5 GHz with 3.9 GB memory with Ubuntu 10.04
 
 <td>Q-Chem 4.0</td>
 <td>9.30</td>
-<td>14/td>
+<td>14</td>
 <td>0.66</td>
 <td> -648.495723731</td>
 <td></td>
