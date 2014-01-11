@@ -60,6 +60,12 @@ Q-Chem inputs were takien from [Michael Banck](http://github.com/mbanck/qmspeedt
 </table>
 
 ### B3LYP
+
+Default grids are different in each program: 
+Gamess (US) uses a Lebedev grid with 96 radial points per atom and 302 angular points per radial shell 
+Firefly     uses a pruned Lebedev grid with 63 radial points per atom and 302 angular points per radial shell 
+Q-Chem      uses the "standard grid-1" , which is a pruned version of a Lebedev grid with 50 radial points per atom and 194 angular points per radial shell.
+
 <table>
 <tr>
 <th>QM Package</th><th>Time (min)</th><th>Steps</th><th>per step</th>
