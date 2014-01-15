@@ -117,7 +117,7 @@ Comparing non-default grids between programs:
 </tr>
 
 <tr>
-<td>Gamess (US) (63,302) grid 
+<td>Gamess (US) (Firefly grid) 
 <td>102.7</td><td>41</td>
 <td>2.5</td>
 <td>   -648.4956642 </td>
@@ -130,21 +130,69 @@ Comparing non-default grids between programs:
 <td>Gamess (US)(SG-1 grid) 
 <td>24.7</td><td>40</td>
 <td>0.62</td>
-<td>   -648.4956642 </td>
+<td>-648.4956642 </td>
 <td></td>
 <td></td>
 </tr>
+
+
+<tr>
+
+
+<td>Firefly (Gamess(US) grid) </td>
+<td>33.7</td>
+<td>26</td>
+<td>1.3</td>
+<td>-648.4956790</td>
+<td></td>
+<td></td>
+</tr>
+
+
 <tr>
 
 
 <td>Firefly (SG-1 grid) </td>
-<td>13.8</td>
-<td>22</td>
-<td>0.63</td>
-<td> -648.4959153</td>
+<td>19.6</td>
+<td>23</td>
+<td>0.85</td>
+<td>-648.4957054791</td>
 <td></td>
 <td></td>
 </tr>
+
+
+
+
+
+
+<tr>
+
+
+<td>Q-Chem 4.0  (Firefly grid)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+
+
+<td>Q-Chem 4.0  (Gamess US grid)</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+
+
+
 
 <tr>
 
