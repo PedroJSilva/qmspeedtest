@@ -72,8 +72,8 @@ Default grids are different in each program:
 <th>Total E</th><th>HOMO</th><th>LUMO</th>
 </tr>
 <tr><b>
-<td>Gamess (US) default grid
-<td><b>42.2</td><td>41</td>
+<td><b>Gamess (US) default grid
+<td><b>142.2</td><td>41</td>
 <td><b>3.47</td>
 <td><b>   -648.4956883277  </td>
 <td></td>
@@ -113,7 +113,7 @@ Default grids are different in each program:
 <td></td>
 </tr>
 <tr>
-<td>Firefly default grid </td>
+<td><b>Firefly default grid </td>
 <td><b>22.2</td>
 <td><b>25</td>
 <td><b>0.89</td>
