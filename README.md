@@ -105,3 +105,48 @@ Default grids are different in each program:
 
 
 </table>
+
+
+Comparing non-default grids between programs:
+
+
+<table>
+<tr>
+<th>QM Package</th><th>Time (min)</th><th>Steps</th><th>per step</th>
+<th>Total E</th><th>HOMO</th><th>LUMO</th>
+</tr>
+
+<tr>
+<td>Gamess (US) (63,302) grid 
+<td>102.7</td><td>41</td>
+<td>2.5</td>
+<td>   -648.4956642 </td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+
+<tr>
+<td>Gamess (US)(SG-1 grid) 
+<td>24.7</td><td>40</td>
+<td>0.62</td>
+<td>   -648.4956642 </td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+
+
+<td>Firefly (SG-1 grid) </td>
+<td>13.8</td>
+<td>22</td>
+<td>0.63</td>
+<td> -648.4959153</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+
+
+
