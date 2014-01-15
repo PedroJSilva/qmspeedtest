@@ -72,15 +72,15 @@ Default grids are different in each program:
 <th>Total E</th><th>HOMO</th><th>LUMO</th>
 </tr>
 <tr><b>
-<td>Gamess (US) 
-<td>142.2</td><td>41</td>
-<td>3.47</td>
-<td>   -648.4956883277  </td>
+<td>Gamess (US) default grid
+<td><b>42.2</td><td>41</td>
+<td><b>3.47</td>
+<td><b>   -648.4956883277  </td>
 <td></td>
 <td></td></b>
 </tr>
 <tr>
-<td>Gamess (US) (Firefly grid) 
+<td>Gamess (US) with Firefly grid 
 <td>102.7</td><td>41</td>
 <td>2.5</td>
 <td>   -648.4956642 </td>
@@ -88,7 +88,7 @@ Default grids are different in each program:
 <td></td>
 </tr>
 <tr>
-<td>Gamess (US)(SG-1 grid) 
+<td>Gamess (US) with SG-1 grid 
 <td>24.7</td><td>40</td>
 <td>0.62</td>
 <td>-648.4956642 </td>
@@ -104,7 +104,7 @@ Default grids are different in each program:
 <th>Total E</th><th>HOMO</th><th>LUMO</th>
 </tr>
 <tr>
-<td>Firefly (Gamess(US) grid) </td>
+<td>Firefly with Gamess(US) grid </td>
 <td>33.7</td>
 <td>26</td>
 <td>1.3</td>
@@ -113,16 +113,16 @@ Default grids are different in each program:
 <td></td>
 </tr>
 <tr>
-<td>Firefly</td>
-<td>22.2</td>
-<td>25</td>
-<td>0.89</td>
+<td>Firefly default grid </td>
+<td><b>22.2</td>
+<td><b>25</td>
+<td><b>0.89</td>
 <td> -648.4956786524</td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Firefly (SG-1 grid) </td>
+<td>Firefly with SG-1 grid </td>
 <td>19.6</td>
 <td>23</td>
 <td>0.85</td>
@@ -137,7 +137,7 @@ Default grids are different in each program:
 <th>Total E</th><th>HOMO</th><th>LUMO</th>
 </tr>
 <tr>
-<td>Q-Chem 4.0  (Gamess US grid)</td>
+<td>Q-Chem 4.0 with Gamess (US) grid</td>
 <td>32.5</td>
 <td>14</td>
 <td>2.32</td>
@@ -146,7 +146,7 @@ Default grids are different in each program:
 <td></td>
 </tr>
 <tr>
-<td>Q-Chem 4.0  (Firefly grid)</td>
+<td>Q-Chem 4.0 with Firefly grid</td>
 <td>23.25</td>
 <td>14</td>
 <td>1.66</td>
@@ -155,10 +155,10 @@ Default grids are different in each program:
 <td></td>
 </tr>
 <tr>
-<td>Q-Chem 4.0</td>
-<td>9.30</td>
-<td>14</td>
-<td>0.66</td>
+<td><b>Q-Chem 4.0 default grid</td>
+<td><b>9.30</td>
+<td><b>14</td>
+<td><b>0.66</td>
 <td> -648.495723731</td>
 <td></td>
 <td></td>
