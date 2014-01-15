@@ -95,6 +95,14 @@ Default grids are different in each program:
 <td></td>
 <td></td>
 </tr>
+
+</table>
+
+<table>
+<tr>
+<th>QM Package</th><th>Time (min)</th><th>Steps</th><th>per step</th>
+<th>Total E</th><th>HOMO</th><th>LUMO</th>
+</tr>
 <tr>
 <td>Firefly (Gamess(US) grid) </td>
 <td>33.7</td>
@@ -121,6 +129,12 @@ Default grids are different in each program:
 <td>-648.4957054791</td>
 <td></td>
 <td></td>
+</tr>
+</table>
+<table>
+<tr>
+<th>QM Package</th><th>Time (min)</th><th>Steps</th><th>per step</th>
+<th>Total E</th><th>HOMO</th><th>LUMO</th>
 </tr>
 <tr>
 <td>Q-Chem 4.0  (Gamess US grid)</td>
